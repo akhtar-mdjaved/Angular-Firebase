@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-firebase-79739": {
+      "hosting": {
+        "stack-my-biz": [
+          "angular-firebase-79739"
+        ]
+      }
+    }
+  }
+}
